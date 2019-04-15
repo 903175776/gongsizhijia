@@ -1,0 +1,21 @@
+[{
+  "menuId":1,
+  "menuName":"基础模块",
+  "child":[{
+    "menuId":2,
+    "menuName":"轮播图",
+    "menuUrl":"/jsp/cmfz_banner.jsp"
+  },{
+    "menuId":3,
+    "menuName":"上师模块",
+    "menuUrl":"/jsp/cmfz_guru.jsp"
+  }]
+},{
+    "menuId":4,
+    "menuName":"用户模块",
+    "child":[]
+  },{
+  "menuId":5,
+  "menuName":"权限模块",
+  "child":[]
+}]
